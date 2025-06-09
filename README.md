@@ -14,5 +14,5 @@
   🔗 https://datatalks.club/blog/data-engineering-zoomcamp.html 
 
 - 📫 How to reach me:  
-  - [LinkedIn](https://www.linkedin.com/in/mauladiarifiqbal-kangdata/)  
+  - 🔗 (https://www.linkedin.com/in/mauladiarifiqbal-kangdata/)  
   - 📧 mauladiarifiqbal@gmail.com
